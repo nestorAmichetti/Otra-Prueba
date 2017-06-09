@@ -19,7 +19,7 @@ public class teoria extends JFrame {
 	private JPanel contentPane;
 	private JTextField textField;
 
-	/**
+	 /**
 	 * Launch the application.
 	 */
 	public static void main(String[] args) {
